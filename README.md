@@ -1,0 +1,2 @@
+# firstwed
+ ทดลองใช้ github
